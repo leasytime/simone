@@ -38,6 +38,12 @@ h1 {
     margin-bottom: 16px;
 }
 
+@media (max-width: 768px) {
+    h1 {
+        font-size: 48px;
+    }
+}
+
 header a {
     color: #888888;
     margin-right: 16px;
